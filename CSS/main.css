@@ -41,13 +41,13 @@ p {
     body {
         display: flex;
         justify-content: center;
-        margin: 100px auto;
+        margin: 150px auto;
     }
 }
 @media (min-width: 375px) and (max-width: 1440px) {
     body {
         display: flex;
         justify-content: center;
-        margin: 100px auto;
+        margin: 150px auto;
     }
 }
